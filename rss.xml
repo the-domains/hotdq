@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ToD]]></title>
         <description><![CDATA[ToD]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hotdq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 15:05:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 06 Jun 2016 15:05:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hotdq/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dette har skjedd...]]></title>
+            <description><![CDATA[<article><h1>Dette har skjedd...</h1><p>Etter at dere mistet Skyreach Castle dro dere sørover langs The Trade Route tilbake til Waterdeep - The City of Splenders. Der ble dere møtt av Leosin Erlanther, som ønsket dere velkommen og fortalte dere at deres handlinger i kampen mot The Cult of the Dragon ikke hadde gått upåakted hen. Han forklarte at flere mektige person og representanter fra de viktigste fraksjonene i Faérun har lagt sine personlige interesser til siden og besluttet å samarbeide for å finne en løsning på denne felles trusselen. Rådet, bedre kjent som The Counsil of Waterdeep, har ved flere anledninger nevnt dere, og Leosin kunne forklare at de insisterte på å snakke med dere straks dere ankom byen.</p></article>]]></description>
+            <link>https://thegrid.ai/hotdq/dette-har-skjedd/index.html</link>
+            <guid isPermaLink="false">90022b05-01fb-409d-ba59-65d158ba78a1</guid>
+            <pubDate>Mon, 06 Jun 2016 15:05:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Waterdeep]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd5c71dc-eed1-4a87-9632-3666d474e3c2.jpg">]]></description>
-            <link>undefinedwaterdeep/index.html</link>
+            <link>https://thegrid.ai/hotdq/waterdeep/index.html</link>
             <guid isPermaLink="false">00765efa-7335-4207-bc19-b58354659eca</guid>
             <pubDate>Mon, 06 Jun 2016 15:05:31 GMT</pubDate>
         </item>
